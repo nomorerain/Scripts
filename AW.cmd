@@ -1,0 +1,1 @@
+Powershell.exe "%~dp0ArrangeWindows.ps1 %1"
